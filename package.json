@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sujalkrsoni.github.io/Construction/",
   "name": "adminpanel",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +14,7 @@
     "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.11.0",
     "file-saver": "^2.0.5",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.7.0",
